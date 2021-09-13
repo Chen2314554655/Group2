@@ -10,15 +10,9 @@ Dream processs()
 
 Laws/rules/standards ()
 
-    In a 4*4 grid, two numbers are randomly generated at the beginning,
-    and then one number is generated each time,the number generated can only be 2
+    Use the terminal graphics library file curses to draw graphics in the terminal.
+    Use a two-dimensional array to store variables in 4 x 4 spaces.
+    Keyboard input controls movement, after logical judgment, the two-dimensional array data changes.
+    After the two-dimensional array data changes, it will be displayed by the graphics function.
 
-    We can use up, down, left and right to move the numbers globally, 
-    The same number can be added after moving
-    Different numbers cannot be added 
-    until one number reaches 2048. 
-
-    When all the grids have numbers, 
-    and there are no identical numbers adjacent to each other so that you cannot move。  
-    the game is over
 
