@@ -6,7 +6,7 @@ Requirement Specifications
 
 Dream processs()
 
-    We want the system to have randomness instead of making a fixed choice 
+    I hope that the system can be compared with the user, and finally inform the user of the result
 
 Laws/rules/standards ()
  
