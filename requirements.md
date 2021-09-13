@@ -1,4 +1,4 @@
-# Requirement Specifications
+Requirement Specifications
 
     we hope to make a small game based on the win system. 
     
