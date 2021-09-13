@@ -20,5 +20,4 @@ Laws/rules/standards ()
     The program will run through multiple times and add up the numbers. 
     
     In the end, if the number reaches the specified 2048, the user succeeds.
-    If the space cannot generate numbers by movement, the program informs the user to end with failure.
-
+    If the space cannot generate numbers by movement, the user fail
