@@ -10,7 +10,7 @@ Dream processs()
 
 Laws/rules/standards ()
 
-    Use the terminal graphics library file curses to draw graphics in the terminal.
+    Use the terminal graphics library file  graphics to draw graphics in the terminal.
     Use a two-dimensional array to store variables in 4 x 4 spaces.
     Keyboard input controls movement, after logical judgment, the two-dimensional array data changes.
     After the two-dimensional array data changes, it will be displayed by the graphics function.
