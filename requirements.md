@@ -15,7 +15,7 @@ Laws/rules/standards ()
     
     Identical numbers can be added, but different numbers cannot
     
-    The program can only output the integer 2, and initially generate two, and then only generate one number
+    Generate two numbers at the very beginning of the program, and then run to generate only one number each time
     The program will run through multiple times and add up the numbers. 
     
     In the end, if the number reaches the specified 2048, the user succeeds.
