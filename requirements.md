@@ -6,7 +6,7 @@ Requirement Specifications
 
 Dream processs()
 
-We hope he can randomly appear numbers in the 4*4 grid, and will not overlap with the original numbers
+    We hope he can randomly appear numbers in the 4*4 grid, and will not overlap with the original numbers
 
 Laws/rules/standards ()
 
