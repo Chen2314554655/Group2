@@ -1,6 +1,6 @@
 Requirement Specifications
 
-    we hope to make a small game based on the win system, the name is 2048
+    we hope to make a small game based on the win system. People move the numbers, Same numbers can be added and finally reach the prescribed number 2048
 
 Dream processs()
 
