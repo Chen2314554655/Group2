@@ -1,10 +1,13 @@
 Requirement Specifications
-We hope to make a small game based on the win system, the name is 2048
+
+we hope to make a small game based on the win system, the name is 2048
 
 Dream processs()
+
 We hope he can randomly appear numbers in the 4*4 grid, and will not overlap with the original numbers
 
 Laws/rules/standards ()
+
 In a 4*4 grid, two numbers are randomly generated at the beginning,
 and then one number is generated each time,the number generated can only be 2
 
