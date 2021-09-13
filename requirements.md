@@ -13,7 +13,8 @@ Laws/rules/standards ()
     The program can generate numbers at random positions in the 4*4 image table, 
     and the user can control the movement of numbers by using keyboard input,
     
-    Identical numbers can be added, but different numbers cannot
+    By moving, two identical numbers will be added and only the result will be kept,
+    but different numbers will not be allowed
     
     Generate two numbers at the very beginning of the program, and then run to generate only one number each time
     The program will run through multiple times and add up the numbers. 
