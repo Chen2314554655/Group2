@@ -1,10 +1,14 @@
+Requirement Specifications
 We hope to make a small game based on the win system, the name is 2048
 
+Dream processs()
+We hope he can randomly appear numbers in the 4*4 grid, and will not overlap with the original numbers
+
+Laws/rules/standards ()
 In a 4*4 grid, two numbers are randomly generated at the beginning,
-and then one number is generated each time, and each number is 2. 
+and then one number is generated each time,the number generated can only be 2
 
 We can use up, down, left and right to move the numbers globally, 
-
 The same number can be added after moving
 Different numbers cannot be added 
 until one number reaches 2048. 
