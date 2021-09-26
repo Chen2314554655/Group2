@@ -1,7 +1,7 @@
 # Game program specification                               
 
 We want to use the web as a carrier to make a simple rock-paper-scissors game, so that everyone can relax and entertain after work and study.                                         
-#（2）Interactive system  
+## （2）Interactive system  
 
                                     
 Use an interactive system to provide simple teaching. The system tells the user the meaning of each number to help users start the game faster (for example, rock represents 1,scissors represents 2, and cloth represents 3)
