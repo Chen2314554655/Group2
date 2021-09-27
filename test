@@ -1,0 +1,53 @@
+
+Version 0.01
+Time: 09/19/2021 14.00 
+Using software：Visual Studio 2019
+Expected result：The software runs normally.
+Test Results:Find software programming errors, structure errors and data errors.
+Received result：Does not meet expectations.
+
+Version 0.01
+Time: 09/26/2021 15.00 
+Using software：Visual Studio 2019
+Expected result：The software runs normally.
+Test Results：We found that the computer will continuously select the same option，I think that is a loophole.
+Received result：Does not meet expectations.
+
+Version 0.02
+Time: 09/26/2021 18.00 
+Using software：Visual Studio 2019
+Expected result：The software runs normally.
+Test Results:It is can random selection options now.
+Received result：In line with expectations
+
+
+Version 0.02
+Time: 09/26/2021 18.16
+Using software：Visual Studio 2019
+Expected result：The software runs normally.
+Test Results:Options can be randomly selected and it works normally.
+Received result：In line with expectations
+
+
+Version 0.02
+Time: 09/27/2021 14.50
+Using software：Visual Studio 2019
+Expected result：The software runs normally.
+Test Results:Options can be randomly selected and it works normally.
+Received result：In line with expectations
+
+
+Version 0.02
+Time: 09/27/2021 14.53
+Using software：Visual Studio 2019
+Expected result：The software runs normally.
+Test Results:Options can be randomly selected and it works normally.
+Received result：In line with expectations
+
+
+Version 0.02
+Time: 09/27/2021 14.57
+Using software：Visual Studio 2019
+Expected result：The software runs normally.
+Test Results:Options can be randomly selected and it works normally.
+Received result：In line with expectations
