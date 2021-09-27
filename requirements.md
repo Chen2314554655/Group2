@@ -39,8 +39,7 @@ Colorful interactive interface
 A simple game of rock, paper and scissors.
 1 is rock:  2 is scissors:  3 is paper :  4 is end.
 User can choose a number and compared with AI.
-If both sides are the same，it will be tie.
-
+If both sides are the same，it will be tie
 
 ## Examples of use             
 
