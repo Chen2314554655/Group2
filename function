@@ -31,5 +31,7 @@ int main()
 			
 			else if (d == 2 && n == 1 || d == 3 && n == 2 || d == 3 && n == 1) cout << "you win" << endl;
 			else cout << "you lost" << endl;
-		
+		        }
+		}
+	}	
 	
