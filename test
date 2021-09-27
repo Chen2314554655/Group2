@@ -5,7 +5,8 @@ Using software：Visual Studio 2019
 Expected result：The software runs normally.
 Test Results:Find software programming errors, structure errors and data errors.
 Received result：Does not meet expectations.
-
+   
+Version 0.01
 Time: 09/23/2021 20.30
 Software used: Visual Studio 2019
 Expected result: The software runs normally.
@@ -25,7 +26,6 @@ Using software：Visual Studio 2019
 Expected result：The software runs normally.
 Test Results:It is can random selection options now.
 Received result：In line with expectations
-
 
 Version 0.02
 Time: 09/26/2021 18.16
