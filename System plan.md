@@ -2,9 +2,9 @@
 
 ## 1.Pupose
 
-In order to further reduce the learning cost of the remaining households, the user should be reminded of the number represented by each option before the program runs
-At the beginning of the game, you can only enter the number represented by each option. If you enter the wrong number, the system will not run and prompt the user to re-enter
-When the game is over, the system will inform the user of the system's choice, compare it with the user's choice, and inform the user of the game result
+* In order to further reduce the learning cost of the remaining households, the user should be reminded of the number represented by each option before the program runs
+* At the beginning of the game, you can only enter the number represented by each option. If you enter the wrong number, the system will not run and prompt the user to re-enter
+* When the game is over, the system will inform the user of the system's choice, compare it with the user's choice, and inform the user of the game result
 
 ## 2.Project plan
 
