@@ -35,11 +35,6 @@ Provide tips on how to get started (if you are experiencing difficulties)
                
 Colorful interactive interface
 
-## Rules for the program
-A simple game of rock, paper and scissors.
-1 is rock:  2 is scissors:  3 is paper :  4 is end.
-User can choose a number and compared with AI.
-If both sides are the same，it will be tie
 
 ## Examples of use             
 
