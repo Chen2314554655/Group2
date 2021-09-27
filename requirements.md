@@ -1,6 +1,12 @@
 # Game program specification                               
 
-We want to use the web as a carrier to make a simple rock-paper-scissors game, so that everyone can relax and entertain after work and study.                                         
+We want to use the web as a carrier to make a simple rock-paper-scissors game, so that everyone can relax and entertain after work and study.    
+
+
+## Current situation
+People are usually busy with work and have nothing to do in free time.
+We wanted to make a little game，it use to realx in free time.
+
 ## Interactive system  
 
                                     
@@ -28,6 +34,13 @@ Feedback to users
 Provide tips on how to get started (if you are experiencing difficulties)
                
 Colorful interactive interface
+
+## Rules for the program
+A simple game of rock, paper and scissors.
+1 is rock:  2 is scissors:  3 is paper :  4 is end.
+User can choose a number and compared with AI.
+If both sides are the same，it will be tie.
+
 
 ## Examples of use             
 
