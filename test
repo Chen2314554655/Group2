@@ -6,7 +6,13 @@ Expected result：The software runs normally.
 Test Results:Find software programming errors, structure errors and data errors.
 Received result：Does not meet expectations.
 
-Version 0.01
+Time: 09/23/2021 20.30
+Software used: Visual Studio 2019
+Expected result: The software runs normally.
+Test result: Unable to run, syntax error occurred
+Change: fix bug
+Result: normal operationVersion 0.01
+                                                      
 Time: 09/26/2021 15.00 
 Using software：Visual Studio 2019
 Expected result：The software runs normally.
