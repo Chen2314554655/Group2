@@ -1,4 +1,4 @@
-# Game program specification        
+# System plan   
 
 ## 1.Pupose
 
