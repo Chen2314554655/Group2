@@ -6,7 +6,8 @@ int main()
 	cout << "1 is rock:  2 is scissors:  3 is paper :  4 is end:" << endl;
 	cout << "pls choose " << endl;
 	int n;
-	while (cin >>n)
+
+	while (cin >> n)
 	{
 		if (n < 1 || n>4) cout << "input error pls re-enter:" << endl;
 		else if (n == 4) break;
@@ -28,7 +29,7 @@ int main()
 			case 3: cout << "ai choose paper" << endl; break;
 			}
 			if (d == n) cout << "tie" << endl;
-			
+
 			else if (d == 2 && n == 1 || d == 3 && n == 2 || d == 3 && n == 1) cout << "you win" << endl;
 			else cout << "you lost" << endl;
 		}
