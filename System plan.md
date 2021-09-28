@@ -33,3 +33,49 @@ Can help users get the desired results
 ### Functional Requirements:
 User can easily perform operations and get a result
 
+## 5.Functional design
+
+### System participants:
+* user
+* developers
+
+### Access rights within the system:
+
+#### Developers
+* Can access the entire contents of the program.
+* All program contents can be changed.
+* Design and optimize program functions.
+
+#### User
+* Enter the data the user wants
+* Get the result given by the program
+
+## 6. Physical environment
+* The website will run on any of the popular web browsers.
+
+## 7.Development software
+* Visual Studio 2019
+* Github
+* Trello
+
+## 8.Abstract domain model
+### Basic operations:
+* Select the one you want in the input position
+* If you cannot start the task, please move the cursor to the question mark next to it to help you get started!
+* After completion, choose to continue or exit according to the options provided by the system.
+* After submitting the user's selection, the results you have obtained will be displayed.
+
+## 9.Testing plan
+* Test the feasibility of the program from the user's perspective.
+* Whether the test program runs smoothly and ends.
+* We want to test multiple times and have no bugs.
+
+## 10.Install plan
+User can reach this program through our website，so it is no need to install.
+
+## 11.Maintenance plan
+* Repair and update when there is a problem with the program
+* Repair and update when users have new needs.
+ 
+
+
