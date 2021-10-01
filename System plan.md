@@ -13,7 +13,7 @@
  
 ## 3.Business process model
 
-Our team wnat to create a casual games able to be accessed on the internet.
+Our team wnat to create a casual games able to be accessed on the computer.
 We will do the software with the developers for several weeks, with documentation, concluding the necessary contracts, and in the meantime we will continuously communicate with the customer periodically.
 If the software suits both the client and the developers,We will eventually publish it.
 
@@ -21,7 +21,7 @@ If the software suits both the client and the developers,We will eventually publ
 ### General System
 
 Any user can use the functions of the system.
-We would like the game to be operated on a Web page.
+We would like the game to be operated on a computer.
 Programming language is C++.
 
 ### Interface Requirements:
@@ -51,7 +51,7 @@ User can easily perform operations and get a result
 * Get the result given by the program
 
 ## 6. Physical environment
-* The website will run on any of the popular web browsers.
+* It will run on Windows systems
 
 ## 7.Development software
 * Visual Studio 2019
@@ -70,10 +70,8 @@ User can easily perform operations and get a result
 * Whether the test program runs smoothly and ends.
 * We want to test multiple times and have no bugs.
 
-## 10.Install plan
-User can reach this program through our website，so it is no need to install.
 
-## 11.Maintenance plan
+## 10.Maintenance plan
 * Repair and update when there is a problem with the program
 * Repair and update when users have new needs.
  
