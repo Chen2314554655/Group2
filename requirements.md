@@ -1,6 +1,6 @@
 # Game program specification                               
 
-We want to use the web as a carrier to make a simple rock-paper-scissors game, so that everyone can relax and entertain after work and study.    
+We want to use the C++ to make a simple rock-paper-scissors game, so that everyone can relax and entertain after work and study.    
 
 
 ## Current situation
