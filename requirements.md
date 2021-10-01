@@ -44,7 +44,7 @@ If both sides are the same，it will be tie.
 
 ## Examples of use             
 
-Load the website start the game-choose your result-compare with the result of the system-output the result
+Load the program start the game-choose your result-compare with the result of the system-output the result
 
 ## Interface display           
                                
